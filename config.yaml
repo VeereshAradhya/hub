@@ -39,16 +39,16 @@ catalogs:
     org: tektoncd
     type: community
     provider: github
-    url: https://github.com/tektoncd/catalog
-    revision: main
+    url: https://github.com/VeereshAradhya/catalog
+    revision: test-1.7
 
 scopes:
   - name: agent:create
-    users: [vinamra28, piyush-garg, pratap0007, puneetpunamiya, sm43, sthaha, vdemeester]
+    users: [VeereshAradhya]
   - name: catalog:refresh
-    users: [vinamra28, piyush-garg, pratap0007, puneetpunamiya, sm43, sthaha, vdemeester]
+    users: [VeereshAradhya]
   - name: config:refresh
-    users: [vinamra28, piyush-garg, pratap0007, puneetpunamiya, sm43, sthaha, vdemeester]
+    users: [VeereshAradhya]
 
 default:
   scopes:
