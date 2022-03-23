@@ -44,11 +44,11 @@ catalogs:
 
 scopes:
   - name: agent:create
-    users: [VeereshAradhya, ppitonak]
+    users: [VeereshAradhya, ppitonak, puneetpunamiya]
   - name: catalog:refresh
-    users: [VeereshAradhya, ppitonak]
+    users: [VeereshAradhya, ppitonak, puneetpunamiya]
   - name: config:refresh
-    users: [VeereshAradhya, ppitonak]
+    users: [VeereshAradhya, ppitonak, puneetpunamiya]
 
 default:
   scopes:
